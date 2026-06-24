@@ -33,5 +33,7 @@
 ## 📎 Ссылки
 - [Код тестов](src/EmailMessageTest.java)
 - [Основной класс](src/EmailMessage.java)
+- [Код тестов (Примера)](example/BankAccountTest.java)
+- [Основной класс (Примера)](example/BankAccount.java)
 
 *Дата: 24.06.2026*
